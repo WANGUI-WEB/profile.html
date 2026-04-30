@@ -1,6 +1,6 @@
 # Wangui-web - Personal Portfolio
 
-Live Site: https://wangui-web.github.io/profile.html
+Live Site: https://wangui-web.github.io/index.html
 
 ## About
 Mobile-first portfolio website built with HTML5 and CSS3 on Acode. 
